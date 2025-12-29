@@ -57,13 +57,3 @@ try{
 catch{
     ("Porta não rodando")
 }
-/*
-    1 Tipo de Rota (get, post, delete...)
-    2 Endereço
-
-    Objetivo: criar nossa API de produtos:
-    - criar um produto
-    - listar todos os produtos
-    - editar um usuario
-    - deletar um usuario
-*/
